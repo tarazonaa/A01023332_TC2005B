@@ -1,0 +1,182 @@
+/* Selectores */
+body {
+    /* Atributos */
+    font-family: Geneva, Tahoma, sans-serif;
+    /* Valores */
+    margin:0;
+    font-weight: 100;
+    background: #b9f767;
+    color: #051d2b;
+}
+
+.container {
+    padding: 10px;
+    text-align: center;
+}
+
+.small-container {
+    height: 200px;
+    width: 40%;
+    margin: auto;
+    margin-bottom: 20px;
+    background: #5ee0ac;
+}
+
+/* Borders */
+
+.borders {
+    border: 3px solid #051d2b;
+    border-radius: 5px;
+}
+
+/* Border Left, Right, Top, Bottom*/
+.border-top {
+    border-top: 3px solid #051d2b;
+}
+
+.border-btm {
+    border-bottom: 3px solid #051d2b;
+}
+
+.border-left {
+    border-left: 3px solid #051d2b;
+}
+
+.border-right {
+    border-right: 3px solid #051d2b;
+}
+
+/* Border Radius*/
+.border-one {
+    border: 3px solid #051d2b;
+    border-radius: 1px;
+}
+
+.border-five {
+    border: 3px solid #051d2b;
+    border-radius: 5px;
+}
+
+.border-ten {
+    border: 3px solid #051d2b;
+    border-radius: 10px;
+}
+
+.border-hundred {
+    border: 3px solid #051d2b;
+    border-radius: 100%;
+}
+
+/* Background Image */
+.background-img {
+   background-image: url("https://images.pexels.com/photos/8451490/pexels-photo-8451490.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"); 
+   background-position: center;
+   height: 400px;
+}
+
+/* Color */
+.color-red {
+    color: red;
+}
+
+.color-green {
+    color: green;
+}
+
+.color-blue {
+    color: blue;
+}
+
+.color-custom1 {
+    color: #051d2b;
+}
+
+.color-custom2 {
+    color: #5ee0ac;
+}
+
+/* Font Types */
+.font-sans {
+    font-family: sans-serif;
+}
+
+.font-serif {
+    font-family: serif;
+}
+
+.font-mono {
+    font-family: monospace;
+}
+
+.font-cursive {
+    font-family: cursive;
+}
+
+.font-fantasy {
+    font-family: fantasy;
+}
+
+/* Font Size */
+.font-italic {
+    font-style: italic;
+}
+
+.font-normal {
+    font-style: normal;
+}
+
+.font-oblique {
+    font-style: oblique;
+}
+
+.font-100 {
+    font-weight: 100;
+}
+
+.font-200 {
+    font-weight: 200;
+}
+
+.font-300 {
+    font-weight: 300;
+}
+
+.font-400 {
+    font-weight: 400;
+}
+
+.font-500 {
+    font-weight: 500;
+}
+
+.font-600 {
+    font-weight: 600;
+}
+
+.font-700 {
+    font-weight: 700;
+}
+
+.font-800 {
+    font-weight: 800;
+}
+
+.width-100 {
+    width: 100px;
+}
+
+.width-full {
+    width: 100%;
+}
+
+.height-100 {
+    height: 100px;
+}
+
+.height-half {
+    height: 50vh;
+}
+
+.list-style-armenian {
+    list-style: armenian;
+}
